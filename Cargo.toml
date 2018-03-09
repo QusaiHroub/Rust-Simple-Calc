@@ -1,0 +1,6 @@
+[package]
+name = "rscalc"
+version = "0.0.1"
+authors = ["Qusai Hroub"]
+
+[dependencies]
